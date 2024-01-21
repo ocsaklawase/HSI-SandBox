@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizsatu</string>
+    <string name="isi_pendek">Isi form CV dulu, yuk!</string>
+    <string name="isi_panjang">Untuk bisa memulai pencarian pasangan, Antum harus mengisi form CV Antum terlebih dahulu</string>
+    <string name="lewati">Lewati</string>
+    <string name="isi_cv">Isi CV</string>
+</resources>
